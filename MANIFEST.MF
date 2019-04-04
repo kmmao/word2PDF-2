@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/jacob.jar  lib/commons-io-2.4.jar 
+Main-Class: word2pdf.FileMonitorTest
+
+
